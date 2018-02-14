@@ -6,7 +6,6 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.ListView;
 
 import java.util.ArrayList;
@@ -38,20 +37,6 @@ public class NightFragment extends Fragment {
         final ListView listView = (ListView) rootView.findViewById(R.id.places_list);
 
         listView.setAdapter(itemsAdapter);
-        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                /*
-                *
-                * //TODO: Call related methods e.g
-                * Start Intent to DetailsPage (contains details,Booking redirection)
-                * depending on Item clicked
-                * Place selectedBar = (Place) parent.getItemAtPosition(position);
-                * callBooking(selectedBar);
-                */
-            }
-        });
-
 
         return rootView;
     }

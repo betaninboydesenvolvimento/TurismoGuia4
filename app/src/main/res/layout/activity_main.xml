@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context="com.comabetaninboydesenvolvimento.google.httpssites.turismoguia.MainActivity">
 
-
     <android.support.design.widget.TabLayout
         android:id="@+id/slidingtabs"
         android:layout_width="match_parent"
@@ -24,7 +23,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-
     </android.support.v4.view.ViewPager>
 
     <android.support.design.widget.FloatingActionButton
@@ -39,11 +37,5 @@
         android:layout_marginRight="@dimen/dp16"
         android:src="@drawable/ic_book_white_24dp"
         app:backgroundTint="@color/colorPrimaryDark"/>
-
-
-
-
-
-
 
 </RelativeLayout>

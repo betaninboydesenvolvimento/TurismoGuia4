@@ -3,33 +3,30 @@
 
     <!--Sightseeing Names -->
     <string name="praçateixerinha">Praça do Teixeirinha</string>
-    <string name="rodeio">Complexo Turístico de Roselândia</string>
-    <string name="catedralpf">Igreja Matriz de Passo Fundo</string>
-    <string name="ctgdesc">Centro de Tradições Gaúchas</string>
-
+    <string name="rodeio">Roselândia</string>
+    <string name="catedralpf">Igreja Matriz</string>
+    <string name="ctgdesc">Centro Gaúcha</string>
 
     <!--Sightseeing Descriptions -->
-    <string name="teixerinha">Praça onde se encontra o monumento em homenagem ao conhecido cancioneiro tradicionalista Victor Mateus Teixeira, o Teixeirinha.</string>
-    <string name="parque">O local possui uma área com mais de 200 hectares, abrangendo cerca de 22 entidades, entre a sede campestre de clubes, CTG, kartródromo, escola de equitação e Parque de rodeios, sendo que somente este possui uma área de 75 mil metros de mata nativa.</string>
-    <string name="catedral">A Diocese de Passo Fundo (Diœcesis Passofundensis) foi ereta canonicamente aos 10 de março de 1951, por meio da bula Si qua diocesis do Papa Pio XII, sendo sufragânea da Arquidiocese de Porto Alegre. O território da diocese foi desmembrado da então Diocese de Santa Maria. Foi elevada a Arquidiocese pelo Papa Bento XVI no dia 13 de abril de 2011, passando a ser sé metropolitana da Província Eclesiástica de mesmo nome, tendo como sufragâneas as dioceses de Vacaria, Frederico Westphalen e Erexim.</string>
-    <string name="ctg">Os Centros de Tradições Gaúchas (CTGs) são sociedades civis sem fins lucrativos, que buscam divulgar as tradições e o folclore da cultura gaúcha tal como foi codificada e registrada por folcloristas reconhecidos pelo movimento. São entidades tradicionalistas que cultivam a cultura e os costumes do Estado do Rio Grande do Sul no Brasil através de atividades associativas e recreativas, guiadas pelos mesmos princípios e normas de ação, mas espalhadas em células que podem encontrar-se em qualquer território mesmo fora do Estado. O lema criado no primeiro CTG, em 1948, permanece cultuado, ainda hoje, pelos homens (gaúchos) e mulheres (prendas) participantes deste movimento: “Em qualquer chão – sempre gaúcho”. Diferenciam-se de Departamentos de Tradições Gaúchas, porque esses últimos geralmente estão ligados a alguma instituição. Visam à integração social dos seus participantes, os tradicionalistas, ao resgate e à preservação dos costumes dos gaúchos, através da dança, do churrasco e de esportes. Existem muitos Centros de Tradições Gaúchas no Brasil, mas principalmente nos estados do Rio Grande do Sul, Santa Catarina e Paraná</string>
+    <string name="teixerinha">Praça em homenagem.</string>
+    <string name="parque">Parque de rodeios.</string>
+    <string name="catedral">Catedral de Passo Fundo desde 1951</string>
+    <string name="ctg">Centro Tradições Gaúchas.</string>
 
     <!-- Night Life -->
-    <string name="krep">Kreps Lanches Hamburgueria</string>
+    <string name="krep">Kreps</string>
     <string name="chico">Chico Churrascaria</string>
-    <string name="panoramico">Grill Hall Panorâmico Restaurante E Churrascaria</string>
-    <string name="planalto">Churrascaria Planalto</string>
+    <string name="panoramico">Panorâmico</string>
+    <string name="planalto">Planalto</string>
 
     <!-- Night Life Descriptions -->
-    <string name="krepdesc">Endereço: Rua General Neto ao Lado do Forum da Justiça Estadual de Passo Fundo | Prédio da Esquina, Passo Fundo, Rio Grande do Sul 99010–021, Brasil"</string>
-    <string name="chicodesc">Espaço Kids. A Chico Churrascaria conta com um Espaço Kids para toda a criançada se divertir, enquanto os papais provam do melhor churrasco. Aqui na Chico Churrascaria todos tem seu espaço garantido!</string>
-    <string name="panoramicodesc">Com um variado buffet de comidas quentes e as mais diferentes saladas, oferece ainda mais de 20 qualidades de carnes em seu rodízio. A casa possui dois salões, o salão principal serve além do tradicional rodízio de carnes, a opção Buffet Livre, Buffet Livre com Grelhados ou Buffet por Quilo.</string>
-    <string name="planaltodesc">Churrascaria Planalto, Passo Fundo. 10 mil curtidas. Venha conhecer o melhor do churrasco gaúcho servido totalmente a mesa Pagina Oficial segue regras.</string>
+    <string name="krepdesc">Pizzeria no centro de Passo Fundo"</string>
+    <string name="chicodesc">Churrascaria no bairro Boqueirão</string>
+    <string name="panoramicodesc">Churrascaria proxima a UPF</string>
+    <string name="planaltodesc">Churrascaria proxima Boqueirão</string>
     <string name="price">Valor:</string>
-    <string name="sight_tab_name">Vistas noturnas</string>
-    <string name="night_tab_name">Vida Noturna</string>
-    <string name="food_tab_name">Restaurantes</string>
-    <string name="hotel_tab_name">Hotéis</string>
+    <string name="sight_tab_name">Pontos Turísticos</string>
+    <string name="night_tab_name">Restaurantes</string>
     <string name="textView_place_description">Descrição</string>
     <string name="textView_place_name">Nome</string>
 

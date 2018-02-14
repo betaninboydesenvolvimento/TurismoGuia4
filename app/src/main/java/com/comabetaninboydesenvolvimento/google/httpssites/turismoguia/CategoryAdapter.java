@@ -9,15 +9,12 @@ import android.support.v4.app.FragmentPagerAdapter;
  */
 class CategoryAdapter extends FragmentPagerAdapter {
 
-
     private final Context mContext;
-
 
     CategoryAdapter(Context context, FragmentManager fm) {
         super(fm);
         mContext = context;
     }
-
 
     @Override
     public android.support.v4.app.Fragment getItem(int position) {
@@ -25,12 +22,11 @@ class CategoryAdapter extends FragmentPagerAdapter {
             return new SightFragment();
         } else
             return new NightFragment();
-
     }
 
     @Override
     public int getCount() {
-        return 4;
+        return 2;
     }
 
     @Override
@@ -40,11 +36,7 @@ class CategoryAdapter extends FragmentPagerAdapter {
                 return mContext.getString(R.string.sight_tab_name);
             case 1:
                 return mContext.getString(R.string.night_tab_name);
-            case 2:
-                return mContext.getString(R.string.food_tab_name);
-            case 3:
-                return mContext.getString(R.string.hotel_tab_name);
         }
-        return null;
+        return mContext.getString(R.string.sight_tab_name);
     }
 }
